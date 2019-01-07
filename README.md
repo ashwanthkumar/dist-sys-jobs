@@ -13,6 +13,7 @@ Curated list of Distributed Systems Jobs around the world or remote.
 
 ## Remote Jobs
 - Fastly - [Distributed Systems TLS / API Engineer at Fastly - San Francisco / Remote](https://golang.cafe/job/distributed-systems-tls-api-engineer-with-fastly-san-francisco-remote)
+- Protocol Labs - [Software Engineer, Distributed Systems](https://jobs.lever.co/protocol/50de30a8-289f-49e5-93ad-9967e1941c12)
 
 ## Contribution
 This repo is not sponsored list of jobs from various organizations. It's more aimed at folks who you are looking for Distributed Systems jobs either Remote or other wise. If you've joined or know of a good distributed systems job please send them as a PR. 
